@@ -23,7 +23,15 @@ cd JDSL-portal
 
 To stop press CTRL+C in the terminal.
 
-## Sources
+## Roadmap
+
+- [ ] Add git hook that updates JSON files
+- [ ] Add backend server in JDSL
+- [ ] Add frontend
+- [ ] Launch frontend and backend with JDSL
+- [ ] Add new-hire branch that corrupts backend data
+
+## References
 
 - [Article](https://thedailywtf.com/articles/the-inner-json-effect)
 - [JDSL Repo](https://github.com/jeff-hykin/JDSL)
