@@ -1,6 +1,6 @@
 {
-  "File": "Server.json",
-  "Class": "Server",
+  "File": "MyServer.json",
+  "Class": "MyServer",
   "Author": "dont@email.me",
   "Purpose": "",
   "Functions": []
