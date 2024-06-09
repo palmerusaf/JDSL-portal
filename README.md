@@ -25,7 +25,7 @@ To stop press CTRL+C in the terminal.
 
 ## Roadmap
 
-- [ ] Add git hook that updates JSON files
+- [x] Add sh that updates json with last commit
 - [ ] Add backend server in JDSL
 - [ ] Add frontend
 - [ ] Launch frontend and backend with JDSL
