@@ -1,4 +1,4 @@
-# JDSL portal
+# JDSL Message Board
 
 ## About
 
