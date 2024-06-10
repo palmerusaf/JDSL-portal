@@ -29,6 +29,11 @@ This will start both the API servers and the web server. To see it in action go 
 
 To stop press CTRL+C in the terminal.
 
+## Limitations
+
+- It currently only works on Firefox.
+- Data isn't persistent between server shutdown.
+
 ## Roadmap
 
 - [x] Add sh that updates json with last commit
